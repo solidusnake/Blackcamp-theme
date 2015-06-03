@@ -27,6 +27,8 @@
 		<key>Banner</key>
 		<string>logo-trans.png</string>
 		<key>Components</key>
+		<key>Tools</key>
+  	<true/>
 		<dict>
 			<key>Banner</key>
 			<false/>
@@ -35,7 +37,7 @@
 			<key>Label</key>
 			<false/>
 			<key>MenuTitle</key>
-			<false/>
+			<true/>
 			<key>Revision</key>
 			<false/>
 		</dict>
