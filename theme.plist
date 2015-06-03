@@ -28,7 +28,7 @@
 		<string>logo-trans.png</string>
 		<key>Components</key>
 		<key>Tools</key>
-  	<true/>
+  		<true/>
 		<dict>
 			<key>Banner</key>
 			<false/>
